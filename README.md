@@ -2,7 +2,7 @@
 
 Ein lebendiger Jump-'n'-Run-Endlosläufer im Browser – gebaut mit HTML5 Canvas und Vanilla JavaScript. Spring über Hindernisse, stampf Gegner platt, sammle Münzen und schalte komplett verschiedene Helden frei. Kein Framework, kein Backend, alles in einer Datei.
 
-**▶️ Live-Demo:** _(Link nach dem Deployment ergänzen)_
+**▶️ Live-Demo:** _https://enriquee-lab.github.io/sprout-run/_
 
 ---
 
